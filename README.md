@@ -22,7 +22,7 @@
 
 - :seedling: Exploring new fields like finance and back-end development
 
-- :gear: More about my experience: [Link Text](timeline.html)
+- :gear: More about my experience: (templates/aboutme.htm)
 <br>
 
 --- 
