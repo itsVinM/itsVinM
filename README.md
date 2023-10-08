@@ -22,7 +22,7 @@
 
 - :seedling: Exploring new fields like finance and back-end development
 
-- :gear: More about my experience: ([templates/aboutme.htm)](https://github.com/itsVinM/VincentiuPortfolio/blob/f2df213f518a872b3cbfb603f1bed7d9259728f2/templates/aboutme.htm)
+- :gear: More about my experience: ...
 <br>
 
 --- 
