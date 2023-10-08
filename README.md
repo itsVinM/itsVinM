@@ -25,21 +25,18 @@
 ---
 # Portfolio
      
-#### [Dynamic web portfolio with stock tracking & financial dashboard](https://github.com/itsVinM)
+#### [Dynamic web portfolio with stock tracking & financial dashboard]() (ongoing)
 
-<img width="45%" align="right" src="https://obrianbl.github.io/CAPM_AAPL_TSLA_MSFT_INTL/Markowitz-Efficient-Frontier-with-Sharpe-Ratio.png"/>
+<img width="25%" align="right" src="https://obrianbl.github.io/CAPM_AAPL_TSLA_MSFT_INTL/Markowitz-Efficient-Frontier-with-Sharpe-Ratio.png"/>
 In this project, I will try to collect real-time data from the web using FinQuant and Yahoo finance, <br>
 construct a portfolio, analyze, and optimize it.
 
 
 <hr width="100%"/>
  
-#### [High-performance network packet analyzer](https://github.com/itsVinM)
-<img width="60%" align="right" src="..."/>
-
-
-<hr width="100%"/>
-
+#### [High-performance network packet analyzer](planned)  (planned)
+#### [Cloud-native microservices app](planned)  (planned)
+#### [Linux system monitoring](planned)  (planned)
 
       
 --- 
