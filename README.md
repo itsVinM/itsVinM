@@ -16,7 +16,7 @@
 ---
 
 ### :man_technologist:About Me: 
- - :telescope: I am a (Graduate) Equipment Development Engineer 
+ - :telescope: I am a (Graduate) Equipment Development Engineer in Manchester (UK), 
 
 - :zap: In my free time, I am upskilling my software skills with a focus on optimization.
 
