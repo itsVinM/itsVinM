@@ -22,8 +22,10 @@
 
 - :seedling: Exploring new fields like finance and back-end development
 
-- :gear: More about my experience: ...
-<br>
+- :gear: More about my experience: [...](https://github.com/itsVinM/VincentiuPortfolio/tree/main#vincentius-web-portfolio)
+
+---
+### Portfolio
 
 --- 
 ### 🛠️ Languages and Tools:
