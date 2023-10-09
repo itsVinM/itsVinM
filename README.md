@@ -35,11 +35,11 @@ construct a portfolio, analyze, and optimize it.
 
 <hr width="100%"/>
  
-#### [High-performance network packet analyzer](planned)  (planned)
-#### [Cloud-native microservices app](planned)  (planned)
-#### [Linux system monitoring](planned)  (planned)
 
-      
+#### [Linux system monitoring](planned) (planned)
+
+#### [Cloud-native microservices app](planned)  (planned) 
+
 --- 
 ### 🛠️ Languages and Tools:
 <div align='center'>
