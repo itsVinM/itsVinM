@@ -38,7 +38,6 @@ construct a portfolio, analyze, and optimize it.
 
 #### [Linux system monitoring](planned) (planned)
 
-#### [Cloud-native microservices app](planned)  (planned) 
 
 --- 
 ### 🛠️ Languages and Tools:
