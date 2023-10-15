@@ -11,17 +11,17 @@
 <br>
 
 <div align="center">
-  <p>Oh hello there 👋</p>
+  <p>Hello there 👋</p>
 </div>
 
 ---
 
 # :man_technologist:About Me: 
- - :telescope: I am a (Graduate) Equipment Development Engineer in Manchester (UK), 
+- :telescope: I am currently working as a Graduate Equipment Development Engineer in Manchester(🇬🇧), focused on developing hardware and software for high-voltage MOSFET applications.
 
-- :zap: Exploring new fields in finance and back-end development
+- 🗺 Exploring new fields in finance, computer system development, and embedded. 
 
-- :gear: [More about my experience](https://github.com/itsVinM/VincentiuPortfolio/tree/main#vincentius-web-portfolio)
+- ⚙️ [More about my experience](https://github.com/itsVinM/VincentiuPortfolio/tree/main#vincentius-web-portfolio)
 
 ---
 # Portfolio
@@ -29,7 +29,7 @@
 #### [Dynamic web portfolio with stock tracking & financial dashboard]() (ongoing)
 
 <img width="25%" align="right" src="https://obrianbl.github.io/CAPM_AAPL_TSLA_MSFT_INTL/Markowitz-Efficient-Frontier-with-Sharpe-Ratio.png"/>
-In this project, I will try to collect real-time data from the web using FinQuant and Yahoo finance, <br>
+In this project, I will try to collect real-time data from the web using FinQuant and Yahoo Finance, <br>
 construct a portfolio, analyze, and optimize it.
 
 
@@ -43,12 +43,10 @@ construct a portfolio, analyze, and optimize it.
 ### 🛠️ Languages and Tools:
 <div align='center'>
    <!-- Add Python icon -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
- 
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;  
   
 
