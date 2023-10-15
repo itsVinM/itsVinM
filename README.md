@@ -26,13 +26,12 @@
 ---
 # Portfolio
      
-#### [Dynamic web portfolio with stock tracking & financial dashboard]() (ongoing)
+#### [Financial dashboard]() (ongoing)
 
 <img width="25%" align="right" src="https://obrianbl.github.io/CAPM_AAPL_TSLA_MSFT_INTL/Markowitz-Efficient-Frontier-with-Sharpe-Ratio.png"/>
 In this project, I will try to collect real-time data from the web using FinQuant and Yahoo Finance, <br>
 construct a portfolio, analyze, and optimize it.
-
-
+<br>
 <hr width="100%"/>
  
 
@@ -41,13 +40,17 @@ construct a portfolio, analyze, and optimize it.
 
 --- 
 ### 🛠️ Languages and Tools:
-<div align='center'>
+<div >
    <!-- Add Python icon -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++ 17" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;  
-  
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Linux/Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;  
+<br>
+<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="Numpy" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 
 </div>
