@@ -24,7 +24,7 @@
 - ⚙️ [More about my experience](https://github.com/itsVinM/VincentiuPortfolio/tree/main#vincentius-web-portfolio)
 
 ---
-# Portfolio
+# Portfolio - under developement
      
 #### [Financial dashboard]() (ongoing)
 
