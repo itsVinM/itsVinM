@@ -24,11 +24,11 @@
 - ⚙️ [More about my experience](https://github.com/itsVinM/VincentiuPortfolio/tree/main#vincentius-web-portfolio)
 
 ---
-# Portfolio - under developement
+# Portfolio
      
-#### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard/blob/main/README.md) (ongoing)
+### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard/blob/main/README.md) (ongoing)
 
-<img width="25%" align="right" src="https://obrianbl.github.io/CAPM_AAPL_TSLA_MSFT_INTL/Markowitz-Efficient-Frontier-with-Sharpe-Ratio.png"/>
+<img width="20%" align="left" src="https://obrianbl.github.io/CAPM_AAPL_TSLA_MSFT_INTL/Markowitz-Efficient-Frontier-with-Sharpe-Ratio.png"/>
 In this project, I will try to collect real-time data from the web using FinQuant and Yahoo Finance, <br>
 construct a portfolio, analyze, and optimize it.
 <br>
@@ -37,11 +37,12 @@ construct a portfolio, analyze, and optimize it.
 
 #### [Own BitTorrent](https://github.com/itsVinM/OwnBitTorrent) (ongoing)
 
-<img width="25%" align="right"  src= https://img1.gratispng.com/20180320/zsq/kisspng-purple-symbol-apps-torrent-5ab0fea696cd01.8855212915215489666177.jpg>
+<img width="20%" align="left"  src= https://img1.gratispng.com/20180320/zsq/kisspng-purple-symbol-apps-torrent-5ab0fea696cd01.8855212915215489666177.jpg>
+Here I am trying to build my own BitTorrent in C++.
+<hr width="100%"/>
 
 
---- 
-### 🛠️ Languages and Tools:
+# 🛠️ Languages and Tools:
 <div >
    <!-- Add Python icon -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
