@@ -26,7 +26,7 @@
 ---
 # Portfolio
      
-### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard/blob/main/README.md)
+### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard)
 
 <img width="20%" align="left" src="https://obrianbl.github.io/CAPM_AAPL_TSLA_MSFT_INTL/Markowitz-Efficient-Frontier-with-Sharpe-Ratio.png"/>
 In this project, I will try to collect real-time data from the web using FinQuant and Yahoo Finance, <br>
