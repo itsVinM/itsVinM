@@ -28,17 +28,12 @@
      
 ### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard)
 
-<img width="20%" align="left" src="https://obrianbl.github.io/CAPM_AAPL_TSLA_MSFT_INTL/Markowitz-Efficient-Frontier-with-Sharpe-Ratio.png"/>
-In this project, I will try to collect real-time data from the web using FinQuant and Yahoo Finance, <br>
-construct a portfolio, analyze, and optimize it.
-<br>
+Tools : Python, Plotly (Dash), Yahoo Finace
 <hr width="100%"/>
  
 
 ### [Own BitTorrent](https://github.com/itsVinM/OwnBitTorrent)
-
-<img width="20%" align="left"  src= https://img1.gratispng.com/20180320/zsq/kisspng-purple-symbol-apps-torrent-5ab0fea696cd01.8855212915215489666177.jpg>
-Here I am trying to build my own BitTorrent in C++.
+Tools : C++ 17
 <hr width="100%"/>
 
 
