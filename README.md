@@ -24,7 +24,7 @@
 - ⚙️ [More about my experience](https://github.com/itsVinM/VincentiuPortfolio/tree/main#vincentius-web-portfolio)
 
 ---
-# Portfolio
+# :book: Portfolio
 <div> 
    
 ### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard) 
