@@ -25,21 +25,21 @@
 
 ---
 # Portfolio
-     
-### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard)
+<div>    
+#### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard)
 
 Tools : Python, Plotly (Dash), Yahoo Finace
 <hr width="100%"/>
  
 
-### [Own BitTorrent](https://github.com/itsVinM/OwnBitTorrent)
+#### [Own BitTorrent](https://github.com/itsVinM/OwnBitTorrent)
 Tools : C++ 17
 <hr width="100%"/>
 
+</div>
 
 # 🛠️ Languages and Tools:
 <div >
-   <!-- Add Python icon -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++ 17" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Linux/Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;  
