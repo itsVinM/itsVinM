@@ -3,7 +3,7 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vincentiu-mocanu-b06274182/details/certifications/">
+  <a href="https://www.linkedin.com/in/vincentiu-mocanu-b06274182">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
