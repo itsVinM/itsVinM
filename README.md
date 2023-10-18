@@ -27,13 +27,13 @@
 # Portfolio
 <div> 
    
-<h5>[Financial dashboard](https://github.com/itsVinM/FinancialDashboard) </h5>
+###[Financial dashboard](https://github.com/itsVinM/FinancialDashboard) 
 
 Tools : Python, Plotly (Dash), Yahoo Finace
 <hr width="100%"/>
  
 
-<h5>[Own BitTorrent](https://github.com/itsVinM/OwnBitTorrent) </h5>
+###[Own BitTorrent](https://github.com/itsVinM/OwnBitTorrent) 
 Tools : C++ 17
 <hr width="100%"/>
 
