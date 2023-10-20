@@ -27,7 +27,7 @@
 # :book: Portfolio
 <div> 
    
-### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard) 
+### [Portfolio tracking and optimization web app](https://github.com/itsVinM/FinancialDashboard) 
 
 Tools : Python, Plotly (Dash), Yahoo Finace
 <hr width="100%"/>
