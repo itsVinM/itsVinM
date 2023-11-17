@@ -27,16 +27,10 @@
 # :book: Portfolio
 <div> 
    
-### [Portfolio tracking and optimization web app](https://github.com/itsVinM/StockTrackingWebApp) 
-Tools : Python, Plotly (Dash), Yahoo Finace
-<hr width="100%"/>
+| [Financial Dashboard](https://github.com/itsVinM/StockTrackingWebApp) 
+| ----------------------------------------------------------------------------------------------
+|[Own BitTorrent](https://github.com/itsVinM/OwnBitTorrent) 
 
-### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard) 
-<hr width="100%"
-  
-### [Own BitTorrent](https://github.com/itsVinM/OwnBitTorrent) 
-Tools : C++ 17
-<hr width="100%"/>
 
 </div>
 
