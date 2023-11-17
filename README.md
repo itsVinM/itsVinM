@@ -16,24 +16,6 @@
 
 ---
 
-# :man_technologist:About Me: 
-- :telescope: I am currently working as a Graduate Equipment Development Engineer in Manchester(🇬🇧), focused on developing hardware and software for high-voltage MOSFET applications.
-
-- 🗺 Exploring new fields in finance, computer system development, and embedded. 
-
-- ⚙️ [More about my experience](https://github.com/itsVinM/VincentiuPortfolio/tree/main#vincentius-web-portfolio)
-
----
-# :book: Portfolio
-<div> 
-   
-| [Financial Dashboard](https://github.com/itsVinM/StockTrackingWebApp) 
-| ----------------------------------------------------------------------------------------------
-|[Own BitTorrent](https://github.com/itsVinM/OwnBitTorrent) 
-
-
-</div>
-
 # 🛠️ Languages and Tools:
 <div >
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
