@@ -45,6 +45,14 @@
   <img src="https://raw.githubusercontent.com/fmilthaler/finquant/master/images/finquant-logo.png" title="FinQuant"  width="70" height="40"/>&nbsp; 
   </div>
 
+  # :: Simulation software
+  <div>
+  <img src="https://www.okan.edu.tr/uploads/c_1920x760/slider/matlab-simulink/mlsl-12062018.jpg" title="Matlab & Simulink" width="85" height="50"/>&nbsp;
+  <img src="https://simteq.co.za/wp-content/uploads/2020/05/Snipaste_2020-06-02_16-48-23.png" title="Cradle scStream" width="75" height="50"/>&nbsp;
+  <img src="https://img-blog.csdnimg.cn/img_convert/2a29382acdb69535906934f4b6630894.png" title="LTSpice" width="75" height="50"/>&nbsp;
+     
+  </div>
+  
 </div>
 
 ---
