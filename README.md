@@ -21,7 +21,7 @@
   
   <div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/C/C-original-wordmark.svg" title="C" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/C-original-wordmark.svg" title="C" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++ 17" alt="C++" width="40" height="40"/>&nbsp;  
   <img src="https://www.wiresmithtech.com/wp-content/uploads/rust-logo-512x512-1.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;   
   <img src="https://www.atlasformation.fr/atlas/wp-content/uploads/2017/01/logo-Excel-VBA.png" title="VBA for Excel" width="50" height="40"/>&nbsp;  
