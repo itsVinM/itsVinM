@@ -27,7 +27,7 @@ I am currently working on a different range of projects from financial data anal
   Project tracker developed using Django and Plotly for "basic" tracking of 125+ projects
   
   - Dynamic table visualization enabled by [DataTables](https://datatables.net/index) and core information such as delay (S to R gate), project ID, name, and leader.
-  - Gannt graph with "Overall", the sum of project gates (Project Management Institue's gates/definitions), latest baseline, and forecast by the project manager
+  - Gantt graph with "Overall", the sum of project gates (Project Management Institue's gates/definitions), latest baseline, and forecast by the project manager
   - Details of the project with the option for the PM to log in and update the information.
   - (ongoing) addition of KPIs, Capital Expenditure analysis, and other data analysis parameters
 </p>
