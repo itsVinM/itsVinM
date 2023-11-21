@@ -61,7 +61,20 @@ I am currently working on a different range of projects from financial data anal
   
 </p>
 
+### [Basic current control for motor](https://github.com/itsVinM/Basic_Current_Control_Motor)
+<img width="300" height="150" src="https://github.com/itsVinM/itsVinM/assets/85823292/42388035-9611-450f-8b04-8667a34c1b25" align="right">
+<p>
+  "Basic" current control system for a three-phase motor simulated in Simulink with PID controller
 
+  - Simulink model with mask, control system (with feedback), three-phase motor
+
+  - Real motor data from various companies
+
+  - PID control: open or close loop according to conditions.
+
+
+
+</p>
 
 ---
 
