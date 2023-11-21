@@ -45,6 +45,23 @@ I am currently working on a different range of projects from financial data anal
   Simple stock analysis tool (ongoing)
 </p> 
  
+### [Basic vehicle control](https://github.com/itsVinM/Basic_vehicle_control)
+
+### [Basic vehicle dynamics](https://github.com/itsVinM/Basic_vehicle_dynamics)
+<img width="300" height="200" alt="image"  src="https://github.com/itsVinM/Basic_vehicle_dynamics/assets/85823292/44d2a12d-4342-4331-b55f-5db80d760fb1" align="right">
+<p>
+  "Basic" vehicle dynamics simulation, part of a bigger project in "Technologies for autonomous vehicles" (M.Eng. Mechatronics).
+  Aim:
+  
+  - Analysis of different maneuvers given different steering inputs (step steer, ramp steer, and sweep sine), various positions of the Centre of Gravity, and values of speed. 
+  
+  - Use of a simplified Simulink lateral dynamic model reduced to a bicycle model, where the front and rear wheels are considered a single unit.
+
+  - Conclusions of understeering, oversteering, or neutral positions. Further information was taken from the course "Automotive Control System" where the simulation was done in CarSim.
+  
+</p>
+
+
 
 ---
 
