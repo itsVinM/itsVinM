@@ -31,10 +31,8 @@
   <div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp; 
   <img src="https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F76huO0U4LZC7JDYn9ATcua%2F7e73799e55400fa274d56bfd4b44caa2%2Fdjango.png&w=3840&q=75&dpl=dpl_33YXTrqqZy8SDU7JtvzPRSLkGJcE" title="Django" alt="django" width="50" height="40"/> &nbsp; 
-  <img src="https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png" title="Streamlit" width="80" height="40"/> &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" width="40" height="40"/>&nbsp;   
+  <img src="https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png" title="Streamlit" width="80" height="40"/> &nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker"  width="40" height="40"/>&nbsp; 
   </div>
   
   # 📚 Libraries
