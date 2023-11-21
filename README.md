@@ -15,9 +15,43 @@
 
 <p></p>
 
+---
 
+# 🚀 Projects
+I am currently working on a different range of projects from financial data analysis, project management trackers, servers communications to control systems.
+
+### [Project Tracker](https://github.com/itsVinM/Python_Project_Tracker)
+
+<img src="https://github.com/itsVinM/Python_Project_Tracker/assets/85823292/246bc054-3d5f-4bc8-9688-2a9261a12788" align="right" width="600" height="250">
+<p>
+  Project tracker developed using Django and Plotly for "basic" tracking of 125+ projects
   
-  # 👨‍💻 Languages
+  - Dynamic table visualization enabled by [DataTables](https://datatables.net/index) and core information such as delay (S to R gate), project ID, name, and leader.
+  - Gannt graph with "Overall", the sum of project gates (Project Management Institue's gates/definitions), latest baseline, and forecast by the project manager
+  - Details of the project with the option for the PM to log in and update the information.
+  - (ongoing) addition of KPIs, Capital Expenditure analysis, and other data analysis parameters
+</p>
+
+### [Bank Manage system](https://github.com/itsVinM/Bank_Manage)
+<p>
+   Basic CLI bank managing system.
+
+   - code compiled with CMake
+   - "Workflow" with build.yml file, and testing with Github's "Action"
+</p>
+
+### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard)
+<p>
+  Simple stock analysis tool (ongoing)
+</p> 
+ 
+
+---
+
+
+
+
+# 👨‍💻 Languages
   
   <div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -26,7 +60,7 @@
   <img src="https://www.atlasformation.fr/atlas/wp-content/uploads/2017/01/logo-Excel-VBA.png" title="VBA for Excel" width="50" height="40"/>&nbsp;  
   </div>
   
-  # 🛠 Technologies 
+# 🛠 Technologies 
   
   <div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp; 
@@ -35,15 +69,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  width="40" height="40"/>&nbsp; 
   </div>
   
-  # 📚 Libraries
+# 📚 Libraries
   
-  <diV >
+  <div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://pbs.twimg.com/profile_images/1707801799267348480/xd7EdAjS_400x400.jpg" title="Plotly" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/fmilthaler/finquant/master/images/finquant-logo.png" title="FinQuant"  width="70" height="40"/>&nbsp; 
   </div>
 
-  # :: Simulation software
+# :: Simulation software
   <div>
   <img src="https://www.okan.edu.tr/uploads/c_1920x760/slider/matlab-simulink/mlsl-12062018.jpg" title="Matlab & Simulink" width="85" height="50"/>&nbsp;
   <img src="https://simteq.co.za/wp-content/uploads/2020/05/Snipaste_2020-06-02_16-48-23.png" title="Cradle scStream" width="75" height="50"/>&nbsp;
@@ -61,4 +95,3 @@
   </a>
   
 </div>
-
