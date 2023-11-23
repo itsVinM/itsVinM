@@ -5,13 +5,13 @@
 
 # About me
 
-🏠 I am currently working as Graduate Equipment Development Engineer in the 🇬🇧, focused on in-house tools development (software and hardware). <p></p>
+🏠 I am currently improving myself as a Software Engineer in Europe (🇮🇹, 🇳🇱), focused on automation and data analysis in python, plus other stuff in C++ and Rust <p></p>
 
 👟 Outside of my "nerd" and work momentum, I love traveling and adventures ✈️
 
 🔖 Background (academic): B.Eng in Aerospace Engineering and M.Eng. in Mechatronics Engineering (Technologies for eMobility), both at Politecnico di Torino (🇮🇹)
 
-:fire:Background (non-academic): I was a football referee, worked as an intern in the aerospace field, and later in the automotive industry, eventually transitioning into the world of semiconductors as a Graduate Automotive Power Electronics Engineer.
+:fire:Background (non-academic): I was a football referee, worked as an intern in the aerospace field, and later in the automotive industry, eventually transitioning into the world of semiconductors as a Graduate Automotive Power Electronics Engineer and briefly to a position as Graduate Equipment Development Engineer.
 
 <p></p>
 
