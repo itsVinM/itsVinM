@@ -45,9 +45,9 @@ I am currently working on a different range of projects from financial data anal
   Simple stock analysis tool (ongoing)
 </p> 
  
-### [Basic vehicle control](https://github.com/itsVinM/Basic_vehicle_control)
+### [Vehicle control](https://github.com/itsVinM/Basic_vehicle_control)
 
-### [Basic vehicle dynamics](https://github.com/itsVinM/Basic_vehicle_dynamics)
+### [Vehicle dynamics](https://github.com/itsVinM/Basic_vehicle_dynamics)
 <img width="300" height="200" alt="image"  src="https://github.com/itsVinM/Basic_vehicle_dynamics/assets/85823292/44d2a12d-4342-4331-b55f-5db80d760fb1" align="right">
 <p>
   "Basic" vehicle dynamics simulation, part of a bigger project in "Technologies for autonomous vehicles" (M.Eng. Mechatronics).
@@ -61,7 +61,7 @@ I am currently working on a different range of projects from financial data anal
   
 </p>
 
-### [Basic current control for motor](https://github.com/itsVinM/Basic_Current_Control_Motor)
+### [Current control for motor](https://github.com/itsVinM/Basic_Current_Control_Motor)
 <img width="300" height="150" src="https://github.com/itsVinM/itsVinM/assets/85823292/42388035-9611-450f-8b04-8667a34c1b25" align="right">
 <p>
   "Basic" current control system for a three-phase motor simulated in Simulink with PID controller
