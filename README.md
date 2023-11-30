@@ -5,13 +5,13 @@
 
 # About me
 
-🏠 I am currently improving myself as a Software Engineer in Europe (🇮🇹, 🇳🇱), focused on automation and data analysis in python, plus other stuff in C++ and Rust <p></p>
+🏠 I am currently improving myself as a Junior Software and Simulation Engineer based in the EU (as I travel frequently between each country), focused on automation and data analysis in Python, plus other stuff in C++ and Rust <p></p>
 
 👟 Outside of my "nerd" and work momentum, I love traveling and adventures ✈️
 
 🔖 Background (academic): B.Eng in Aerospace Engineering and M.Eng. in Mechatronics Engineering (Technologies for eMobility), both at Politecnico di Torino (🇮🇹)
 
-:fire:Background (non-academic): I was a football referee, worked as an intern in the aerospace field, and later in the automotive industry, eventually transitioning into the world of semiconductors as a Graduate Automotive Power Electronics Engineer and briefly to a position as Graduate Equipment Development Engineer.
+:fire: Background (non-academic): I was a football referee, worked as an intern in the aerospace field, and later in the automotive industry, eventually transitioning into the world of semiconductors as a Graduate Automotive Power Electronics Engineer and briefly to a position as Graduate Equipment Development Engineer.
 
 <p></p>
 
@@ -37,6 +37,7 @@ I am currently working on a different range of projects from financial data anal
    Basic CLI bank managing system.
 
    - code compiled with CMake
+   - OOP basic with iterators, extensive use of pointers.
    - "Workflow" with build.yml file, and testing with Github's "Action"
 </p>
 
