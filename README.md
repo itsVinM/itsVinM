@@ -3,7 +3,7 @@
 ### About myself
 
 🏠 I am currently a Software and Simulation Engineer based in the EU, coding in [![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-blue.svg)](https://en.cppreference.com/w/cpp/17)
- and [![Rust](https://img.shields.io/badge/Rust-orange.svg)](https://www.rust-lang.org/), while using [![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/) on [![Ubuntu](https://img.shields.io/badge/Ubuntu-orange.svg)](https://ubuntu.com/).
+ and [![Rust](https://img.shields.io/badge/Rust-blue.svg)](https://www.rust-lang.org/), while using [![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/) on [![Ubuntu](https://img.shields.io/badge/Ubuntu-orange.svg)](https://ubuntu.com/).
 
 
 👟 Outside of my "nerd" and work momentum, I love traveling and adventures ✈️
@@ -64,16 +64,16 @@ I am currently working on a different range of projects from financial data anal
 <p>
   Simple stock analysis tool (ongoing)
 
-[![Python](https://img.shields.io/badge/Python-v3.10-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-darkgreen.svg)](https://www.python.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-blue.svg)](https://plotly.com/python)
+[![Plotly](https://img.shields.io/badge/Plotly-lightblue.svg)](https://plotly.com/python)
 
  </p> 
 
 ### [Vehicle control](https://github.com/itsVinM/Basic_vehicle_control)
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2022a-blue.svg)](https://www.mathworks.com/products/matlab.html)
-[![Simulink](https://img.shields.io/badge/Simulink-R2022a-orange.svg)](https://www.mathworks.com/products/simulink.html)
+[![MATLAB](https://img.shields.io/badge/MATLAB-orange.svg)](https://www.mathworks.com/products/matlab.html)
+[![Simulink](https://img.shields.io/badge/Simulink-orange.svg)](https://www.mathworks.com/products/simulink.html)
 
 
 ### [Vehicle dynamics](https://github.com/itsVinM/Basic_vehicle_dynamics)
@@ -87,8 +87,8 @@ I am currently working on a different range of projects from financial data anal
   - Use of a simplified Simulink lateral dynamic model reduced to a bicycle model, where the front and rear wheels are considered a single unit.
 
   - Conclusions of understeering, oversteering, or neutral positions. Further information was taken from the course "Automotive Control System" where the simulation was done in CarSim.
-  [![MATLAB](https://img.shields.io/badge/MATLAB-R2022a-blue.svg)](https://www.mathworks.com/products/matlab.html)
-[![Simulink](https://img.shields.io/badge/Simulink-R2022a-orange.svg)](https://www.mathworks.com/products/simulink.html)
+  [![MATLAB](https://img.shields.io/badge/MATLAB-orange.svg)](https://www.mathworks.com/products/matlab.html)
+[![Simulink](https://img.shields.io/badge/Simulink-orange.svg)](https://www.mathworks.com/products/simulink.html)
 
 </p>
 
@@ -102,8 +102,8 @@ I am currently working on a different range of projects from financial data anal
   - Real motor data from various companies
 
   - PID control: open or close loop according to conditions.
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2022a-blue.svg)](https://www.mathworks.com/products/matlab.html)
-[![Simulink](https://img.shields.io/badge/Simulink-R2022a-orange.svg)](https://www.mathworks.com/products/simulink.html)
+[![MATLAB](https://img.shields.io/badge/MATLAB-orange.svg)](https://www.mathworks.com/products/matlab.html)
+[![Simulink](https://img.shields.io/badge/Simulink-orange.svg)](https://www.mathworks.com/products/simulink.html)
 
 
 
