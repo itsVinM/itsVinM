@@ -6,7 +6,8 @@
 
 # About me
 
-🏠 I am currently a Software and Simulation Engineer based in the EU, coding in [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17) and [![Rust](https://img.shields.io/badge/Rust-1.56.0-orange.svg)](https://www.rust-lang.org/), while using [![Python](https://img.shields.io/badge/Python-v3.10-blue.svg)](https://www.python.org/) on [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange.svg)](https://ubuntu.com/).
+🏠 I am currently a Software and Simulation Engineer based in the EU, coding in [![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-17%2F20-blue.svg)](https://en.cppreference.com/w/cpp/17)
+ and [![Rust](https://img.shields.io/badge/Rust-1.56.0-orange.svg)](https://www.rust-lang.org/), while using [![Python](https://img.shields.io/badge/Python-v3.10-blue.svg)](https://www.python.org/) on [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange.svg)](https://ubuntu.com/).
 
 
 👟 Outside of my "nerd" and work momentum, I love traveling and adventures ✈️
@@ -20,7 +21,7 @@
 ---
 
 # 🚀 Projects
-I am currently working on a different range of projects from financial data analysis, project management trackers, servers communications to control systems.
+I am currently working on a different range of projects from financial data analysis, project management trackers, system programming and maybe in the nearby future embedded in [![C](https://img.shields.io/badge/C-%20-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language)) ,  [![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-14%2F17%2F20-blue.svg)](https://en.cppreference.com/w/cpp/17) or [![Rust](https://img.shields.io/badge/Rust-1.56.0-orange.svg)](https://www.rust-lang.org/)
 
 ### [Project Tracker](https://github.com/itsVinM/Python_Project_Tracker)
 
@@ -48,12 +49,12 @@ I am currently working on a different range of projects from financial data anal
    - code compiled with CMake
    - OOP basic with iterators, extensive use of pointers.
    - "Workflow" with build.yml file, and testing with Github's "Action"
-     [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/14)
+     [![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-17%2F20-blue.svg)](https://en.cppreference.com/w/cpp/17)
      [![Cmake](https://img.shields.io/badge/Cmake-blue.svg)](https://en.cppreference.com/w/cpp/14)
 </p>
 
 ### [Ai tic tac toe](https://github.com/itsVinM/AI_tic_tac_toe)
-   A fun game that allowed me to improve my skills in some libraries of <t></t> [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
+   A fun game that allowed me to improve my skills in some libraries of <t></t> [![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-17%2F20-blue.svg)](https://en.cppreference.com/w/cpp/17)
  
 
 
