@@ -1,7 +1,6 @@
 # Welcome 👋
 
-
-# About me
+### About myself
 
 🏠 I am currently a Software and Simulation Engineer based in the EU, coding in [![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-17%2F20-blue.svg)](https://en.cppreference.com/w/cpp/17)
  and [![Rust](https://img.shields.io/badge/Rust-1.56.0-orange.svg)](https://www.rust-lang.org/), while using [![Python](https://img.shields.io/badge/Python-v3.10-blue.svg)](https://www.python.org/) on [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange.svg)](https://ubuntu.com/).
