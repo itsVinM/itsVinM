@@ -1,17 +1,19 @@
 # Welcome 👋
+
 <div align="center">
   <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="300"/>
 </div>
 
 # About me
 
-🏠 I am currently improving myself as a Junior Software and Simulation Engineer based in the EU (as I travel frequently between each country), focused on automation and data analysis in Python, plus other stuff in C++ and Rust <p></p>
+🏠 I am currently a Software and Simulation Engineer based in the EU, coding in [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17) and [![Rust](https://img.shields.io/badge/Rust-1.56.0-orange.svg)](https://www.rust-lang.org/), while using [![Python](https://img.shields.io/badge/Python-v3.10-blue.svg)](https://www.python.org/) on [![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-orange.svg)](https://ubuntu.com/).
+
 
 👟 Outside of my "nerd" and work momentum, I love traveling and adventures ✈️
 
 🔖 Background (academic): B.Eng in Aerospace Engineering and M.Eng. in Mechatronics Engineering (Technologies for eMobility), both at Politecnico di Torino (🇮🇹)
 
-:fire: Background (non-academic): I was a football referee, worked as an intern in the aerospace field, and later in the automotive industry, eventually transitioning into the world of semiconductors as a Graduate Automotive Power Electronics Engineer and briefly to a position as Graduate Equipment Development Engineer.
+:fire: Background (non-academic): I was a football referee, worked as an intern in the aerospace field, and later in the automotive industry, eventually transitioning into the world of semiconductors as a Graduate Automotive Power Electronics Engineer.
 
 <p></p>
 
@@ -27,9 +29,16 @@ I am currently working on a different range of projects from financial data anal
   Project tracker developed using Django and Plotly for "basic" tracking of 125+ projects
   
   - Dynamic table visualization enabled by [DataTables](https://datatables.net/index) and core information such as delay (S to R gate), project ID, name, and leader.
-  - Gantt graph with "Overall", the sum of project gates (Project Management Institue's gates/definitions), latest baseline, and forecast by the project manager
+  - Gantt graph with "Overall", the sum of project gates (Project Management Institute's gates/definitions), latest baseline, and forecast by the project manager
   - Details of the project with the option for the PM to log in and update the information.
   - (ongoing) addition of KPIs, Capital Expenditure analysis, and other data analysis parameters
+
+    [![Python](https://img.shields.io/badge/Python-v3.10-blue.svg)](https://www.python.org/)
+    [![Django](https://img.shields.io/badge/Django-v3.2.6-darkgreen.svg)](https://docs.djangoproject.com/en/stable/)
+    [![HTML](https://img.shields.io/badge/HTML5-%23454d59.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+    [![CSS](https://img.shields.io/badge/CSS3-%231572b6.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+    [![Plotly](https://img.shields.io/badge/Plotly-v5.5.0-violet.svg)](https://plotly.com/python)
+    
 </p>
 
 ### [Bank Manage system](https://github.com/itsVinM/Bank_Manage)
@@ -39,14 +48,30 @@ I am currently working on a different range of projects from financial data anal
    - code compiled with CMake
    - OOP basic with iterators, extensive use of pointers.
    - "Workflow" with build.yml file, and testing with Github's "Action"
+     [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/14)
+     [![Cmake](https://img.shields.io/badge/Cmake-blue.svg)](https://en.cppreference.com/w/cpp/14)
 </p>
+
+### [Ai tic tac toe](https://github.com/itsVinM/AI_tic_tac_toe)
+   A fun game that allowed me to improve my skills in some libraries of <t></t> [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
+ 
+
 
 ### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard)
 <p>
   Simple stock analysis tool (ongoing)
-</p> 
- 
+
+[![Python](https://img.shields.io/badge/Python-v3.10-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-green.svg)](https://www.python.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-v5.5.0-violet.svg)](https://plotly.com/python)
+
+ </p> 
+
 ### [Vehicle control](https://github.com/itsVinM/Basic_vehicle_control)
+
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2022a-blue.svg)](https://www.mathworks.com/products/matlab.html)
+[![Simulink](https://img.shields.io/badge/Simulink-R2022a-orange.svg)](https://www.mathworks.com/products/simulink.html)
+
 
 ### [Vehicle dynamics](https://github.com/itsVinM/Basic_vehicle_dynamics)
 <img width="300" height="200" alt="image"  src="https://github.com/itsVinM/Basic_vehicle_dynamics/assets/85823292/44d2a12d-4342-4331-b55f-5db80d760fb1" align="right">
@@ -59,7 +84,9 @@ I am currently working on a different range of projects from financial data anal
   - Use of a simplified Simulink lateral dynamic model reduced to a bicycle model, where the front and rear wheels are considered a single unit.
 
   - Conclusions of understeering, oversteering, or neutral positions. Further information was taken from the course "Automotive Control System" where the simulation was done in CarSim.
-  
+  [![MATLAB](https://img.shields.io/badge/MATLAB-R2022a-blue.svg)](https://www.mathworks.com/products/matlab.html)
+[![Simulink](https://img.shields.io/badge/Simulink-R2022a-orange.svg)](https://www.mathworks.com/products/simulink.html)
+
 </p>
 
 ### [Current control for motor](https://github.com/itsVinM/Basic_Current_Control_Motor)
@@ -72,15 +99,14 @@ I am currently working on a different range of projects from financial data anal
   - Real motor data from various companies
 
   - PID control: open or close loop according to conditions.
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2022a-blue.svg)](https://www.mathworks.com/products/matlab.html)
+[![Simulink](https://img.shields.io/badge/Simulink-R2022a-orange.svg)](https://www.mathworks.com/products/simulink.html)
 
 
 
 </p>
 
 ---
-
-
-
 
 # 👨‍💻 Languages
   
