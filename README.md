@@ -13,9 +13,7 @@
 :fire: Background (non-academic): I was a football referee, worked as an intern in the aerospace field, and later in the automotive industry, eventually transitioning into the world of semiconductors as a Graduate Automotive Power Electronics Engineer where I was doing Thermal analysis, simulation, and testing.
 
 <div align="center">
-  <img src="https://github.com/itsVinM/itsVinM/assets/85823292/e3076e08-1625-4fd0-9e1f-9f6eb5cc128e" width="300" />
   <img src="https://github.com/itsVinM/itsVinM/assets/85823292/e459e80e-54a3-4f58-b7a3-e039d807c710" width="160" />
-  <img src="https://github.com/itsVinM/itsVinM/assets/85823292/aeb052f1-3999-44fb-b5e3-78b7b8db57a8" width="300" />
 </div>
 
 
