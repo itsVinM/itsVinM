@@ -73,7 +73,8 @@ I'm a passionate Software and Simulation Engineer based in the EU, specializing 
 
 
 # 🛠 Tools
-  <table>
+
+  <table >
     <tr>
       <td>Programming Languages</td>
       <td>
