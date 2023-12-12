@@ -1,29 +1,30 @@
-# Welcome 👋
+# Hello, I'm Vincentiu! 👋
 
-### About myself
+I'm a passionate Software and Simulation Engineer based in the EU, specializing in crafting code with a focus on [![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-blue.svg)](https://en.cppreference.com/w/cpp/17), [![Rust](https://img.shields.io/badge/Rust-blue.svg)](https://www.rust-lang.org/), and [![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/) on [![Ubuntu](https://img.shields.io/badge/Ubuntu-orange.svg)](https://ubuntu.com/).
 
-🏠 I am currently a Software and Simulation Engineer based in the EU, coding in [![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-blue.svg)](https://en.cppreference.com/w/cpp/17)
-,[![Rust](https://img.shields.io/badge/Rust-blue.svg)](https://www.rust-lang.org/), and [![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/) with [![Ubuntu](https://img.shields.io/badge/Ubuntu-orange.svg)](https://ubuntu.com/).
+## 🚀 About Me
+
+- 🌐 Exploring the fascinating world of code and design.
+- ✈️ Enthusiast for travel and adventures beyond the screen.
+
+## 📚 Academic Background
+
+- 🎓 B.Eng in Aerospace Engineering
+- 🎓 M.Eng. in Mechatronics Engineering (Technologies for eMobility)
+- 📍 Politecnico di Torino, Italy
 
 
-👟 Outside of my "nerd" and work momentum, I love traveling and adventures ✈️
-
-🔖 Background (academic): B.Eng in Aerospace Engineering and M.Eng. in Mechatronics Engineering (Technologies for eMobility), both at Politecnico di Torino (🇮🇹)
-
-:fire: Background (non-academic): I was a football referee, worked as an intern in the aerospace field, and later in the automotive industry, eventually transitioning into the world of semiconductors as a Graduate Automotive Power Electronics Engineer where I was doing Thermal analysis, simulation, and testing.
+:fire: **Background (Non-Academic):**
+- Experience in the aerospace and automotive industry
+- Worked as a Graduate Automotive Power Electronics Engineer, specializing in Thermal analysis, simulation, and testing.
 
 <div align="center">
   <img src="https://github.com/itsVinM/itsVinM/assets/85823292/e459e80e-54a3-4f58-b7a3-e039d807c710" width="160" />
 </div>
 
-
-
-<p></p>
-
 ---
 
-# 🚀 Projects
-I am currently working on a different range of projects from financial data analysis, project management trackers, system programming and maybe in the nearby future embedded 
+# 🚀 Portfolio
 
 ### [Project Tracker](https://github.com/itsVinM/Python_Project_Tracker)
 
@@ -43,37 +44,6 @@ I am currently working on a different range of projects from financial data anal
     [![Plotly](https://img.shields.io/badge/Plotly-lightblue.svg)](https://plotly.com/python)
     
 </p>
-
-### [Bank Manage system](https://github.com/itsVinM/Bank_Manage)
-<p>
-   Basic CLI bank managing system.
-
-   - code compiled with CMake
-   - OOP basic with iterators, extensive use of pointers.
-   - "Workflow" with build.yml file, and testing with Github's "Action"
-     [![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-blue.svg)](https://en.cppreference.com/w/cpp/17)
-     [![Cmake](https://img.shields.io/badge/Cmake-blue.svg)](https://en.cppreference.com/w/cpp/14)
-</p>
-
-### [Ai tic tac toe](https://github.com/itsVinM/AI_tic_tac_toe)
-   A fun game that allowed me to improve my skills in some libraries of <t></t> [![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-blue.svg)](https://en.cppreference.com/w/cpp/17)
- 
-
-
-### [Financial dashboard](https://github.com/itsVinM/FinancialDashboard)
-<p>
-  Simple stock analysis tool (ongoing)
-
-[![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-darkgreen.svg)](https://www.python.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-lightblue.svg)](https://plotly.com/python)
-
- </p> 
-
-### [Vehicle control](https://github.com/itsVinM/Basic_vehicle_control)
-
-[![MATLAB](https://img.shields.io/badge/MATLAB-orange.svg)](https://www.mathworks.com/products/matlab.html)
-[![Simulink](https://img.shields.io/badge/Simulink-orange.svg)](https://www.mathworks.com/products/simulink.html)
 
 
 ### [Vehicle dynamics](https://github.com/itsVinM/Basic_vehicle_dynamics)
@@ -109,36 +79,51 @@ I am currently working on a different range of projects from financial data anal
 
 </p>
 
----
 
 # 🛠 Tools
-  
-  <div >
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C++" width="40" height="40"/>&nbsp;  
- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Modern C++" alt="C++" width="40" height="40"/>&nbsp;  
-  <img src="https://www.wiresmithtech.com/wp-content/uploads/rust-logo-512x512-1.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;   
-  <img src="https://www.atlasformation.fr/atlas/wp-content/uploads/2017/01/logo-Excel-VBA.png" title="VBA for Excel" width="50" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp; 
-  <img src="https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F76huO0U4LZC7JDYn9ATcua%2F7e73799e55400fa274d56bfd4b44caa2%2Fdjango.png&w=3840&q=75&dpl=dpl_33YXTrqqZy8SDU7JtvzPRSLkGJcE" title="Django" alt="django" width="50" height="40"/> &nbsp; 
-  <img src="https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png" title="Streamlit" width="80" height="40"/> &nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://pbs.twimg.com/profile_images/1707801799267348480/xd7EdAjS_400x400.jpg" title="Plotly" width="40" height="40"/>&nbsp; 
-  <img src="https://raw.githubusercontent.com/fmilthaler/finquant/master/images/finquant-logo.png" title="FinQuant"  width="70" height="40"/>&nbsp; 
-  <img src="https://www.okan.edu.tr/uploads/c_1920x760/slider/matlab-simulink/mlsl-12062018.jpg" title="Matlab & Simulink" width="85" height="50"/>&nbsp;
-  <img src="https://simteq.co.za/wp-content/uploads/2020/05/Snipaste_2020-06-02_16-48-23.png" title="Cradle scStream" width="75" height="50"/>&nbsp;
-  <img src="https://img-blog.csdnimg.cn/img_convert/2a29382acdb69535906934f4b6630894.png" title="LTSpice" width="75" height="50"/>&nbsp;
-     
-  </div>
-  
-</div>
+  <table>
+    <tr>
+      <td>Programming Languages</td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C++" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Modern C++" alt="C++" width="40" height="40" />&nbsp;
+        <img src="https://www.wiresmithtech.com/wp-content/uploads/rust-logo-512x512-1.png" title="Rust" alt="Rust" width="40" height="40" />&nbsp;
+        <img src="https://www.atlasformation.fr/atlas/wp-content/uploads/2017/01/logo-Excel-VBA.png" title="VBA for Excel" width="50" height="40" />&nbsp;
+      </td>
+    </tr>
+    <tr>
+      <td>Web Development</td>
+      <td>
+        <img src="https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F76huO0U4LZC7JDYn9ATcua%2F7e73799e55400fa274d56bfd4b44caa2%2Fdjango.png&w=3840&q=75&dpl=dpl_33YXTrqqZy8SDU7JtvzPRSLkGJcE"
+          title="Django" alt="django" width="50" height="40" /> &nbsp;
+        <img src="https://images.datacamp.com/image/upload/v1640050215/image27_frqkzv.png" title="Streamlit" width="80" height="40" /> &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="Flask" width="40" height="40" />
+      </td>
+    </tr>
+    <tr>
+      <td>System Operation</td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" width="40" height="40" />&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg" title="Docker" width="40" height="40" />
+      </td>
+    </tr>
+    <tr>
+      <td>Libraries</td>
+      <td>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Numpy" width="40" height="40" />&nbsp;
+        <img src="https://pbs.twimg.com/profile_images/1707801799267348480/xd7EdAjS_400x400.jpg" title="Plotly" width="40" height="40" />&nbsp;
+        <img src="https://raw.githubusercontent.com/fmilthaler/finquant/master/images/finquant-logo.png" title="FinQuant" width="70" height="40" />
+      </td>
+    </tr>
+    <tr>
+      <td>Engineering Tools</td>
+      <td>
+        <img src="https://www.okan.edu.tr/uploads/c_1920x760/slider/matlab-simulink/mlsl-12062018.jpg" title="Matlab & Simulink" width="85" height="50" />&nbsp;
+        <img src="https://simteq.co.za/wp-content/uploads/2020/05/Snipaste_2020-06-02_16-48-23.png" title="Cradle scStream" width="75" height="50" />&nbsp;
+        <img src="https://img-blog.csdnimg.cn/img_convert/2a29382acdb69535906934f4b6630894.png" title="LTSpice" width="75" height="50" />
+      </td>
+    </tr>
+  </table>
 
----
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vincentiu-mocanu-b06274182">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-</div>
