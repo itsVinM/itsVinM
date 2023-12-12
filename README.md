@@ -10,7 +10,7 @@ I'm a passionate Software and Simulation Engineer based in the EU, specializing 
 
 :fire: **Background (Non-Academic):**
 - Experience in the aerospace and automotive industry where I was doing R&D and data analysis.
-- (Graduate) Automotive Power Electronics Engineer, focused on Thermal analysis, simulation, and testing.
+- (Graduate) Automotive Power Electronics Engineer in Manchester (UK), focused on Thermal analysis, simulation, and testing.
 
 <div align="center">
   <img src="https://github.com/itsVinM/itsVinM/assets/85823292/e459e80e-54a3-4f58-b7a3-e039d807c710" width="160" />
