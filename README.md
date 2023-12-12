@@ -2,21 +2,15 @@
 
 I'm a passionate Software and Simulation Engineer based in the EU, specializing in crafting code with a focus on [![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B-blue.svg)](https://en.cppreference.com/w/cpp/17), [![Rust](https://img.shields.io/badge/Rust-blue.svg)](https://www.rust-lang.org/), and [![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/) on [![Ubuntu](https://img.shields.io/badge/Ubuntu-orange.svg)](https://ubuntu.com/).
 
-## 🚀 About Me
+📚 Academic Background | 📍 Politecnico di Torino, Italy
 
-- 🌐 Exploring the fascinating world of code and design.
-- ✈️ Enthusiast for travel and adventures beyond the screen.
-
-## 📚 Academic Background
-
-- 🎓 B.Eng in Aerospace Engineering
+- 🎓 B.Eng in Aerospace Engineering (Propulsion | Easa part 66)
 - 🎓 M.Eng. in Mechatronics Engineering (Technologies for eMobility)
-- 📍 Politecnico di Torino, Italy
-
+ 
 
 :fire: **Background (Non-Academic):**
-- Experience in the aerospace and automotive industry
-- Worked as a Graduate Automotive Power Electronics Engineer, specializing in Thermal analysis, simulation, and testing.
+- Experience in the aerospace and automotive industry where I was doing R&D and data analysis.
+- (Graduate) Automotive Power Electronics Engineer, focused on Thermal analysis, simulation, and testing.
 
 <div align="center">
   <img src="https://github.com/itsVinM/itsVinM/assets/85823292/e459e80e-54a3-4f58-b7a3-e039d807c710" width="160" />
