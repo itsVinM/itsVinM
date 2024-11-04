@@ -1,6 +1,7 @@
 # Hola,  I'm Vincentiu! 😄
 
-I am a Power Electronics Engineer based in Barcelona 🇪🇸 with a passion for innovation and efficient solutions, working on power systems (e.g. converters, eMotors, embedded) using mainly the following tools:
+I am a Power Electronics Engineer based in Barcelona 🇪🇸 with a passion for data analysis, simulation/modeling, and efficient solutions.
+Currently I am working with these coding languages:
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
