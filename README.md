@@ -12,20 +12,27 @@ Currently, I am working with these coding languages:
 
 ---
 
-### [Project Tracker](https://github.com/itsVinM/Python_Project_Tracker)
-<img src=https://github.com/itsVinM/Python_Project_Tracker/assets/85823292/1465ec21-415a-4302-9120-439ff7d1b36a alt="Image 1" width="1000" height="400">
 
----
+### [Project Tracker](https://github.com/itsVinM/Python_Project_Tracker)
+
+<p align="left">
+  <img src=https://github.com/itsVinM/Python_Project_Tracker/assets/85823292/1465ec21-415a-4302-9120-439ff7d1b36a alt="Image 1" width="500" height="200">
+</p>
 
 ### [Powertrain selection](https://github.com/itsVinM/Powertrain-Case-Selection)
 #### STATUS: Under development with the implementation of <img src="https://ericheilman.com/wp-content/uploads/2023/11/streamlit-logo-secondary-colormark-darktext.png?w=1568" title="Streamlit" alt="Streamlit" width="100" height="25"/> 
-
-<img src=https://github.com/user-attachments/assets/3d40ab48-87dc-496d-ad83-555315a6963e alt="Image 2" width="1000" height="400">
+<p align="left">
+  <img src=https://github.com/user-attachments/assets/3d40ab48-87dc-496d-ad83-555315a6963e alt="Image 2" width="500" height="200">
+</p>
 
 ### [Financial Dashboard](https://github.com/itsVinM/FinancialDashboard)
-![image](https://github.com/itsVinM/FinancialDashboard/assets/85823292/2df1d311-ba5d-4d8c-99a6-41678ca911cc)
+
+<p align="left">
+  <img src=https://github.com/itsVinM/FinancialDashboard/assets/85823292/2df1d311-ba5d-4d8c-99a6-41678ca911cc  alt="Image 3" width="500" height="200">
+</p> 
 
 ### Other 
+
 [Vehicle dynamics](https://github.com/itsVinM/Vehicle_dynamics)
 
 [Motor control](https://github.com/itsVinM/Current_Control_Motor)
