@@ -1,7 +1,6 @@
 # Hola,  I'm Vincentiu! 😄
 
-I am a Power Electronics Engineer based in Barcelona 🇪🇸 I am passionate about data analysis, simulation/modeling, and efficient solutions.
-Currently, I am working with these coding languages:
+I am a Power Electronics Engineer in Barcelona 🇪🇸  passionate about data analysis, simulation/modeling, and efficient solutions.
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
