@@ -1,6 +1,6 @@
 # Hola,  I'm Vincentiu! 😄
 
-I am a Power Electronics Engineer in Barcelona 🇪🇸  passionate about data analysis, simulation/modeling, and efficient solutions.
+I am an engineer in Barcelona 🇪🇸  passionate about data analysis and simulation/modeling.
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
@@ -12,23 +12,22 @@ I am a Power Electronics Engineer in Barcelona 🇪🇸  passionate about data a
 ---
 
 
-### [Project Tracker](https://github.com/itsVinM/Python_Project_Tracker)
+### [Project Tracker v0](https://github.com/itsVinM/Python_Project_Tracker)
 
-<p align="left">
-  <img src=https://github.com/itsVinM/Python_Project_Tracker/assets/85823292/1465ec21-415a-4302-9120-439ff7d1b36a alt="Image 1" width="500" height="200">
-</p>
+![image](https://github.com/itsVinM/Python_Project_Tracker/assets/85823292/1465ec21-415a-4302-9120-439ff7d1b36a)
+
+### [Tracker v2](https://github.com/itsVinM/Tracker/blob/main/README.md)
+
+![image](https://github.com/user-attachments/assets/0a543c6a-20f4-404d-be47-b919033c251c)
 
 ### [Powertrain selection](https://github.com/itsVinM/Powertrain-Case-Selection)
-#### STATUS: Under development with the implementation of <img src="https://ericheilman.com/wp-content/uploads/2023/11/streamlit-logo-secondary-colormark-darktext.png?w=1568" title="Streamlit" alt="Streamlit" width="100" height="25"/> 
-<p align="left">
-  <img src=https://github.com/user-attachments/assets/3d40ab48-87dc-496d-ad83-555315a6963e alt="Image 2" width="500" height="200">
-</p>
+![image](https://github.com/user-attachments/assets/3d40ab48-87dc-496d-ad83-555315a6963e)
+
 
 ### [Financial Dashboard](https://github.com/itsVinM/FinancialDashboard)
 
-<p align="left">
-  <img src=https://github.com/itsVinM/FinancialDashboard/assets/85823292/2df1d311-ba5d-4d8c-99a6-41678ca911cc  alt="Image 3" width="500" height="200">
-</p> 
+![image](https://github.com/itsVinM/FinancialDashboard/assets/85823292/2df1d311-ba5d-4d8c-99a6-41678ca911cc)
+
 
 ### Other 
 
