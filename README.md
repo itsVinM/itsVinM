@@ -5,11 +5,6 @@
     <a href="https://github.com/itsVinM" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
-## Power Electronics Engineer & Systems Developer
-
-I am a **Power Electronics engineer** specializing in the **power electronics desing and  validation**. By day, I focus on circuit testing and regulatory compliance (ISO, EMC/EMI). By night, I channel my energy into exploring **low-level systems** or planning my next travel trip. 
-
-
 ## Key Projects ⚙️
 
 | Powertrain Simulation | Validation Tracker | CHIP-8 Emulator |
