@@ -1,7 +1,6 @@
-# 👋 Hello! I'm Vincentiu
-Here are some of the projects I have been working so far:
+# 👋 Hello there! 
 
----
+Look here for some of the latest (and public) repo that I got:
 ### 🚗 Powertrain Data Analysis Tool 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
