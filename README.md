@@ -1,6 +1,6 @@
 # Hello there! I am Vincentiu.👋🏼
 
-I am a system validation engineer, and these are some stuff I have done so far...
+A system validation engineer with passion for debuggin and building stuff, these are some of the projects I have done so far
 
 ---
 
