@@ -1,8 +1,6 @@
-# Vincentiu Mocanu
+# Hello there! I am Vincentiu.👋🏼
 
-**Systems Validation Engineer** — hardware-software co-test · embedded Rust · fault injection
-
-Space-grade QRNG at **Quside** · GaN/Si at **Nexperia UK** · ISO 16750 automotive at **Applus+ IDIADA** · railway V&V at **Premium PSU**
+I am a system validation engineer, and these are some stuff I have done so far...
 
 ---
 
@@ -32,8 +30,7 @@ STM32F401RE firmware (IWDG watchdog, CRC32 startup, stack watermarking, health F
 
 Cycle-accurate LR35902 emulator. 500+ tests: property-based CPU invariants, golden-file PPU regression, V-blank jitter analysis. Pokemon Red boots to title screen as the end-to-end acceptance test.
 
-[→ itsVinM/gameboy_emulator](https://github.com/itsVinM/gameboy_emulator)
-
+[→itsVinM/gameboy_emulator](https://github.com/itsVinM/gameboy_emu_poke)
 </td>
 </tr>
 <tr>
