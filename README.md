@@ -1,4 +1,4 @@
-# Hello there! I am Vincentiu.👋🏼
+is# Hello there! I am Vincentiu.👋🏼
 
 I am a system validation engineer, and these are some stuff I have done so far...
 
@@ -93,5 +93,3 @@ Comparative web app for powertrain architecture trade-off studies. Models system
 ![JEDEC](https://img.shields.io/badge/JEDEC-semiconductor-cc0000?style=for-the-badge)
 
 ---
-
-📍 Barcelona — open to relocation &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/vincentiu-mocanu-b06274182) &nbsp;|&nbsp; 📧 vincentiu.mocanu00@gmail.com
