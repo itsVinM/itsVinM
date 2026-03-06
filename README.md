@@ -1,4 +1,4 @@
-is# Hello there! I am Vincentiu.👋🏼
+# Hello there! I am Vincentiu.👋🏼
 
 I am a system validation engineer, and these are some stuff I have done so far...
 
