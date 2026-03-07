@@ -1,7 +1,3 @@
-# Hi, I'm Vincentiu 👋🏼
-
----
-
 ## Projects
 
 <table>
