@@ -1,7 +1,6 @@
-# Hello there! I am Vincentiu.👋🏼
+# Hi, I'm Vincentiu 👋🏼
 
-A system validation engineer with passion for debuggin and building stuff, these are some of the projects I have done so far
-
+System Validation Engineer with a passion for debugging and building things. 
 ---
 
 ## Projects
@@ -10,15 +9,14 @@ A system validation engineer with passion for debuggin and building stuff, these
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ STM32 + Digital Analyzer
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Embedded](https://img.shields.io/badge/no__std-embedded-blue?style=for-the-badge)
-![SCPI](https://img.shields.io/badge/SCPI-instrument--control-yellow?style=for-the-badge)
-![probe-rs](https://img.shields.io/badge/probe--rs-GDB-orange?style=for-the-badge)
+### 🎮 CHIP-8 Emulator
+![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Google Test](https://img.shields.io/badge/Google%20Test-coverage-red?style=for-the-badge)
+![SDL2](https://img.shields.io/badge/SDL2-renderer-121013?style=for-the-badge)
 
-STM32F401RE firmware (IWDG watchdog, CRC32 startup, stack watermarking, health FSM) validated externally by a Rust CLI digital analyzer — GPIO capture, UART decode, fault injection, automated pass/fail reports. Hardware and test harness written in the same language, closing the loop end-to-end.
+First validation target of the framework. Established the ports-and-adapters interface all subsequent targets implement. Includes an integrated debugger (breakpoints, register inspection, step/continue), fault injection on CPU registers and stack, and 95%+ branch coverage via Python-controlled test harness.
 
-[→ itsVinM/STM32_HealthCheck](https://github.com/itsVinM/STM32_HealthCheck) · [→ itsVinM/digital_analyzer](https://github.com/itsVinM/digital_analyzer)
+[→ itsVinM/CHIP-8_Emulator](https://github.com/itsVinM/CHIP-8_Emulator)
 
 </td>
 <td width="50%" valign="top">
@@ -28,23 +26,24 @@ STM32F401RE firmware (IWDG watchdog, CRC32 startup, stack watermarking, health F
 ![proptest](https://img.shields.io/badge/proptest-property--based-purple?style=for-the-badge)
 ![Tests](https://img.shields.io/badge/tests-500%2B-brightgreen?style=for-the-badge)
 
-Cycle-accurate LR35902 emulator. 500+ tests: property-based CPU invariants, golden-file PPU regression, V-blank jitter analysis. Pokemon Red boots to title screen as the end-to-end acceptance test.
+Cycle-accurate LR35902 emulator in Rust. 500+ tests: property-based CPU invariants, golden-file PPU regression, V-blank jitter analysis. Integrated debugger with memory watch and fault injection. Pokémon Red boots to title screen as the end-to-end acceptance test.
 
-[→itsVinM/gameboy_emulator](https://github.com/itsVinM/gameboy_emu_poke)
+[→ itsVinM/gameboy_emu_poke](https://github.com/itsVinM/gameboy_emu_poke)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+  
+### ⚡ STM32 Self-Health Monitor
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Embedded](https://img.shields.io/badge/no__std-embedded-blue?style=for-the-badge)
+![probe-rs](https://img.shields.io/badge/probe--rs-GDB-orange?style=for-the-badge)
 
-### 🎮 CHIP-8 Emulator
-![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Google Test](https://img.shields.io/badge/Google%20Test-coverage-red?style=for-the-badge)
-![SDL2](https://img.shields.io/badge/SDL2-renderer-121013?style=for-the-badge)
+<!-- Bare-metal Rust firmware on STM32. Health monitor FSM (OK → DEGRADED → CRITICAL → FAULT), IWDG watchdog, CRC32 startup verification, and stack watermarking. Python framework controls the target via UART — fault injection, automated pass/fail reporting, same interface as the emulator targets.
 
-First validation target of the framework. Established the ports-and-adapters interface all subsequent targets implement. Fault injection, 95%+ branch coverage, stack overflow to defined safe state.
-
-[→ itsVinM/CHIP-8_Emulator](https://github.com/itsVinM/CHIP-8_Emulator)
-
+[→ itsVinM/stm32_health](https://github.com/itsVinM/stm32_health)
+-->
 </td>
 <td width="50%" valign="top">
 
@@ -65,31 +64,8 @@ Comparative web app for powertrain architecture trade-off studies. Models system
 
 ## Stack
 
-**Languages**
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Validation & Embedded**
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-debugger-red?style=for-the-badge)
-![SCPI](https://img.shields.io/badge/SCPI-instrument--control-yellow?style=for-the-badge)
-![probe-rs](https://img.shields.io/badge/probe--rs-embedded-orange?style=for-the-badge)
-![CANoe](https://img.shields.io/badge/CANoe-Vector-darkblue?style=for-the-badge)
-![INCA](https://img.shields.io/badge/INCA-ETAS-blue?style=for-the-badge)
-
-**Standards**
-
-![ISO 26262](https://img.shields.io/badge/ISO%2026262-functional--safety-cc0000?style=for-the-badge)
-![ISO 16750](https://img.shields.io/badge/ISO%2016750-automotive--env-cc0000?style=for-the-badge)
-![ISO 50155](https://img.shields.io/badge/ISO%2050155-railway-cc0000?style=for-the-badge)
-![NIST SP 800-90B](https://img.shields.io/badge/NIST%20SP%20800--90B-entropy-cc0000?style=for-the-badge)
-![JEDEC](https://img.shields.io/badge/JEDEC-semiconductor-cc0000?style=for-the-badge)
-
----
