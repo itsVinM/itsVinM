@@ -20,8 +20,7 @@ First validation target of the framework. Established the ports-and-adapters int
 
 ### 🕹️ Game Boy — LR35902
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![proptest](https://img.shields.io/badge/proptest-property--based-purple?style=for-the-badge)
-![Tests](https://img.shields.io/badge/tests-500%2B-brightgreen?style=for-the-badge)
+
 
 Cycle-accurate LR35902 emulator in Rust. 500+ tests: property-based CPU invariants, golden-file PPU regression, V-blank jitter analysis. Integrated debugger with memory watch and fault injection. Pokémon Red boots to title screen as the end-to-end acceptance test.
 
