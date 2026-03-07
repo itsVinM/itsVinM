@@ -11,6 +11,8 @@
 
 First validation target of the framework. Established the ports-and-adapters interface all subsequent targets implement. Includes an integrated debugger (breakpoints, register inspection, step/continue), fault injection on CPU registers and stack, and 95%+ branch coverage via Python-controlled test harness.
 
+<img width="250" height="250" alt="Screenshot 2025-10-05 at 11 39 47" src="https://github.com/user-attachments/assets/94ea7b6f-f52b-4097-ac21-542e92f48505" />
+
 [→ itsVinM/CHIP-8_Emulator](https://github.com/itsVinM/CHIP-8_Emulator)
 
 </td>
@@ -23,22 +25,26 @@ First validation target of the framework. Established the ports-and-adapters int
 
 Cycle-accurate LR35902 emulator in Rust. 500+ tests: property-based CPU invariants, golden-file PPU regression, V-blank jitter analysis. Integrated debugger with memory watch and fault injection. Pokémon Red boots to title screen as the end-to-end acceptance test.
 
+<img width="250" height="250" src="https://github.com/itsVinM/gameboy_emu_poke/blob/main/images/emualtor_first.png">
+
 [→ itsVinM/gameboy_emu_poke](https://github.com/itsVinM/gameboy_emu_poke)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  
+
 ### ⚡ STM32 Self-Health Monitor
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Embedded](https://img.shields.io/badge/no__std-embedded-blue?style=for-the-badge)
 ![probe-rs](https://img.shields.io/badge/probe--rs-GDB-orange?style=for-the-badge)
 
-<!-- Bare-metal Rust firmware on STM32. Health monitor FSM (OK → DEGRADED → CRITICAL → FAULT), IWDG watchdog, CRC32 startup verification, and stack watermarking. Python framework controls the target via UART — fault injection, automated pass/fail reporting, same interface as the emulator targets.
+🚧 In progress — coming Q3 2026
 
+<!-- Bare-metal Rust firmware on STM32. Health monitor FSM (OK → DEGRADED → CRITICAL → FAULT), IWDG watchdog, CRC32 startup verification, and stack watermarking. Python framework controls the target via UART — fault injection, automated pass/fail reporting, same interface as the emulator targets.
 [→ itsVinM/stm32_health](https://github.com/itsVinM/stm32_health)
 -->
+
 </td>
 <td width="50%" valign="top">
 
