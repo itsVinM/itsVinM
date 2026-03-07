@@ -27,6 +27,7 @@ Cycle-accurate LR35902 emulator in Rust. 500+ tests: property-based CPU invarian
 
 <img width="250" height="250" src="https://github.com/itsVinM/gameboy_emu_poke/blob/main/images/emualtor_first.png">
 
+[→ itsVinM/Gameboy_emulator](https://github.com/itsVinM/gameboy_emu_poke)
 
 </td>
 </tr>
