@@ -1,6 +1,5 @@
 # Hi, I'm Vincentiu 👋🏼
 
-System Validation Engineer with a passion for debugging and building things. 
 ---
 
 ## Projects
