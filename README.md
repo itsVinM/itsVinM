@@ -12,7 +12,6 @@ A collection of projects focused on low-level system design, emulation, and reli
 My primary validation target for a ports-and-adapters architecture. This project serves as a proof-of-concept for building modular, testable hardware interfaces.
 
 * **Capabilities:** Integrated debugger with real-time register inspection and breakpoint support.
-* **Resilience:** Implements a Python-controlled test harness achieving **95%+ branch coverage** and active fault injection on CPU registers.
 
 <img width="250" height="250" alt="CHIP-8 Screen" src="https://github.com/user-attachments/assets/94ea7b6f-f52b-4097-ac21-542e92f48505" />
 
