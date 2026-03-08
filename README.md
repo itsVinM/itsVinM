@@ -1,8 +1,8 @@
-## Projects
+## System-level projects
 
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎮 CHIP-8 Emulator
 ![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,7 +16,7 @@ First validation target of the framework. Established the ports-and-adapters int
 [→ itsVinM/CHIP-8_Emulator](https://github.com/itsVinM/CHIP-8_Emulator)
 
 </td>
-<td width="30%" valign="top">
+<td width="50%" valign="top">
 
 ### 🕹️ Game Boy — LR35902
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -30,22 +30,6 @@ Cycle-accurate LR35902 emulator in Rust. 500+ tests: property-based CPU invarian
 
 </td>
 
-
-
-<td width="30%" valign="top">
-
-### 🚗 Powertrain Analysis Tool
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-Comparative web app for powertrain architecture trade-off studies. Models system architectures and visualises key performance metrics for fast engineering decisions.
-
-[→ Live tool](https://itsvinm-powertrain-case-selection-powertrain-sim-1k95tr.streamlit.app/) 
-[→ itsVinM/Powertrain_Case_Selection](https://github.com/itsVinM/Powertrain_Case_Selection)
-
-</td>
-</tr>
 </table>
 
 ---
