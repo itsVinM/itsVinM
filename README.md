@@ -1,4 +1,5 @@
 ## System-level projects
+Below the main system level projects, which include debuggers and fault injection.
 
 <table>
 <tr>
@@ -6,8 +7,9 @@
 
 ### 🎮 CHIP-8 Emulator
 ![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Google Test](https://img.shields.io/badge/Google%20Test-coverage-red?style=for-the-badge)
 ![SDL2](https://img.shields.io/badge/SDL2-renderer-121013?style=for-the-badge)
+<!--![Google Test](https://img.shields.io/badge/Google%20Test-coverage-red?style=for-the-badge)-->
+
 
 First validation target of the framework. Established the ports-and-adapters interface all subsequent targets implement. Includes an integrated debugger (breakpoints, register inspection, step/continue), fault injection on CPU registers and stack, and 95%+ branch coverage via Python-controlled test harness.
 
@@ -32,12 +34,4 @@ Cycle-accurate LR35902 emulator in Rust. 500+ tests: property-based CPU invarian
 
 </table>
 
----
 
-## Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Podman/containers](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
