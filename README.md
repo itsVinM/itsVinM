@@ -1,5 +1,5 @@
-## 🛠️ Low-Level Shenanigans
-Where I break things (on purpose) to see how they work. This section covers emulators, custom debuggers, and various ways to inject chaos into silicon.
+## 🛠️ Systems & Architecture
+A collection of projects focused on low-level system design, emulation, and reliability testing.
 
 <table>
 <tr>
@@ -9,14 +9,14 @@ Where I break things (on purpose) to see how they work. This section covers emul
 ![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SDL2](https://img.shields.io/badge/SDL2-renderer-121013?style=for-the-badge)
 
-The "Hello World" of systems programming, but over-engineered for your protection. This was the guinea pig for my ports-and-adapters architecture. 
+My primary validation target for a ports-and-adapters architecture. This project serves as a proof-of-concept for building modular, testable hardware interfaces.
 
-* **The Goods:** Integrated debugger (breakpoints/stepping) and a Python test harness that hits **95%+ branch coverage**. 
-* **The Fun Part:** Custom fault injection. Because why just run code when you can intentionally corrupt the CPU registers?
+* **Capabilities:** Integrated debugger with real-time register inspection and breakpoint support.
+* **Resilience:** Implements a Python-controlled test harness achieving **95%+ branch coverage** and active fault injection on CPU registers.
 
 <img width="250" height="250" alt="CHIP-8 Screen" src="https://github.com/user-attachments/assets/94ea7b6f-f52b-4097-ac21-542e92f48505" />
 
-[→ Check the source](https://github.com/itsVinM/CHIP-8_Emulator)
+[→ Source Code](https://github.com/itsVinM/CHIP-8_Emulator)
 
 </td>
 <td width="50%" valign="top">
@@ -24,15 +24,15 @@ The "Hello World" of systems programming, but over-engineered for your protectio
 ### 🕹️ Game Boy — LR35902
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-A cycle-accurate LR35902 emulator written in Rust, because memory safety and 1989 handhelds are a match made in heaven.
+A cycle-accurate LR35902 emulator designed for high-fidelity execution and state-based testing.
 
-* **The Rigor:** 500+ tests including property-based CPU invariants and V-blank jitter analysis. 
-* **The Milestone:** Successfully boots *Pokémon Red* to the title screen. If Oak says it's time to go, the emulator says it's time to go.
-* **The Twist:** Includes memory watch and fault injection for when you want to see a Game Boy struggle.
+* **Verification:** Validated by 500+ tests, including property-based CPU invariants and V-blank jitter analysis.
+* **Features:** Integrated memory watch and fault injection framework.
+* **Milestone:** Successfully passes end-to-end acceptance tests by booting *Pokémon Red* to the title screen.
 
 <img width="250" height="250" src="https://github.com/itsVinM/gameboy_emu_poke/blob/main/images/emualtor_first.png">
 
-[→ View on GitHub](https://github.com/itsVinM/gameboy_emu_poke)
+[→ Source Code](https://github.com/itsVinM/gameboy_emu_poke)
 
 </td>
 </tr>
