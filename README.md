@@ -13,7 +13,7 @@ A hardened execution environment built with a "Quality-First" mindset. This proj
 * **WASM Deployment:** Fully automated CI/CD pipeline targeting high-performance browser execution.
 * **Test-Driven:** Dynamic regression suite validating instruction parity across the entire ROM collection.
 
-<img width="250" height="250" alt="CHIP-8 Go Runtime" src="statics/invaders.png" />
+<img width="250" height="250" alt="CHIP-8 Go Runtime tank game" src="https://github.com/itsVinM/chip8-go-runtime/blob/main/statics/tank.png"/>
 
 [🚀 Live Demo](https://itsVinM.github.io/chip8-go-runtime/) | [→ Source Code](https://github.com/itsVinM/chip8-go-runtime)
 
