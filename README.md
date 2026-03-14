@@ -1,24 +1,23 @@
 ## 🛠️ Systems & Architecture
 A collection of projects focused on low-level system design, emulation, and reliability testing.
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 👾 CHIP-8 Emulator
-![C++](https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SDL2](https://img.shields.io/badge/SDL2-renderer-121013?style=for-the-badge)
+### 👾 CHIP-8 Go Runtime
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![WASM](https://img.shields.io/badge/WebAssembly-624DE8?style=for-the-badge&logo=webassembly&logoColor=white)
+![Ebitengine](https://img.shields.io/badge/Ebitengine-Powered-orange?style=for-the-badge)
 
-My primary validation target for a ports-and-adapters architecture. This project serves as a proof-of-concept for building modular, testable hardware interfaces.
+A hardened execution environment built with a "Quality-First" mindset. This project shifts the focus from simple interpretation to a resilient, production-ready virtual machine.
 
-* **Capabilities:** Integrated debugger with real-time register inspection and breakpoint support.
+* **Engineering Rigor:** Built-in fault injection and graceful halt states to prevent memory corruption.
+* **WASM Deployment:** Fully automated CI/CD pipeline targeting high-performance browser execution.
+* **Test-Driven:** Dynamic regression suite validating instruction parity across the entire ROM collection.
 
-<img width="250" height="250" alt="CHIP-8 Screen" src="https://github.com/user-attachments/assets/94ea7b6f-f52b-4097-ac21-542e92f48505" />
+<img width="250" height="250" alt="CHIP-8 Go Runtime" src="statics/invaders.png" />
 
-[→ Source Code](https://github.com/itsVinM/CHIP-8_Emulator)
+[🚀 Live Demo](https://itsVinM.github.io/chip8-go-runtime/) | [→ Source Code](https://github.com/itsVinM/chip8-go-runtime)
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🕹️ Game Boy — LR35902
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -33,6 +32,3 @@ A cycle-accurate LR35902 emulator designed for high-fidelity execution and state
 
 [→ Source Code](https://github.com/itsVinM/gameboy_emu_poke)
 
-</td>
-</tr>
-</table>
