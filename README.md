@@ -28,7 +28,7 @@ A cycle-accurate LR35902 emulator designed for high-fidelity execution and state
 * **Features:** Integrated memory watch and fault injection framework.
 * **Milestone:** Successfully passes end-to-end acceptance tests by booting *Pokémon Red* to the title screen.
 
-<img width="250" height="250" src="https://github.com/itsVinM/gameboy_emu_poke/blob/main/images/emualtor_first.png">
+<img width="250" height="250" src="https://github.com/itsVinM/gameboy_emu_poke/blob/main/images/debugger.png">
 
 [→ Source Code](https://github.com/itsVinM/gameboy_emu_poke)
 
