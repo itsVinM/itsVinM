@@ -30,5 +30,6 @@ A cycle-accurate LR35902 emulator designed for high-fidelity execution and state
 
 <img width="250" height="250" src="https://github.com/itsVinM/gameboy_emu_poke/blob/main/images/debugger.png">
 
+[🚀 Live Demo](https://itsvinm.github.io/gameboy_emu_poke/)
 [→ Source Code](https://github.com/itsVinM/gameboy_emu_poke)
 
