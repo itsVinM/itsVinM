@@ -5,8 +5,8 @@ A collection of projects focused on low-level system design, emulation, and reli
 
 ### 👾 CHIP-8 Go Runtime
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Ebitengine](https://img.shields.io/badge/Ebitengine-8BD0BA?style=for-the-badge&logo=ebitengine&logoColor=white)
 ![WASM](https://img.shields.io/badge/WebAssembly-624DE8?style=for-the-badge&logo=webassembly&logoColor=white)
-![Ebitengine](https://img.shields.io/badge/Ebitengine-Powered-orange?style=for-the-badge)
 
 A hardened execution environment built with a **"Quality-First"** mindset. This project shifts the focus from simple interpretation to a resilient, production-ready virtual machine.
 
@@ -24,9 +24,8 @@ A hardened execution environment built with a **"Quality-First"** mindset. This 
 
 ### 🕹️ Game Boy — LR35902
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![WASM](https://img.shields.io/badge/WebAssembly-624DE8?style=for-the-badge&logo=webassembly&logoColor=white)
 ![minifb](https://img.shields.io/badge/minifb-brown?style=for-the-badge&logo=rust&logoColor=white)
-
+![WASM](https://img.shields.io/badge/WebAssembly-624DE8?style=for-the-badge&logo=webassembly&logoColor=white)
 
 A cycle-accurate LR35902 emulator designed for high-fidelity execution and state-based testing.
 
