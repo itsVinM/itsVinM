@@ -1,52 +1,51 @@
-# 🎮 Systems Engineering
+# Vin — Systems Engineering
 
+Validation engineer with expertise in **low-level systems**, **CPU emulation**, and **debugging tools**.
 
-<table>
-<tr>
-<td width="50%">
+I specialize in building cycle-accurate emulators, hardened runtimes, and integrated debuggers for systems that require precision and determinism.
 
-**🕹️ Game Boy Emulator — LR35902**
+---
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![minifb](https://img.shields.io/badge/minifb-brown?style=for-the-badge&logo=rust&logoColor=white) ![WASM](https://img.shields.io/badge/WebAssembly-624DE8?style=for-the-badge&logo=webassembly&logoColor=white)
+## Specialization
 
-A cycle-accurate LR35902 CPU emulator. Every opcode validated. Every timing edge tested. Built with Rust for memory safety and shipped with an integrated debugger for cycle-level inspection.
+- **CPU Emulators** — Game Boy (LR35902), CHIP-8, cycle-accurate instruction execution
+- **Virtual Machines & Runtimes** — Deterministic execution, fault injection frameworks, full system visibility
+- **Debugging & Inspection Tools** — Integrated debuggers, cycle-level inspection, performance analysis
+- **Embedded Systems** — Low-level hardware integration, safety-critical systems, MPU isolation
+- **Validation Engineering** — Test automation, system analysis, engineering workflows
 
-**[🎮 Play](https://itsvinm.github.io/gameboy_emu_poke/) · [💻 Source](https://github.com/itsVinM/gameboy_emu_poke)**
+---
 
-</td>
-<td width="25%">
+## Technical Stack
 
-![debugger](https://github.com/itsvinm/gameboy_emu_poke/blob/main/images/debugger.png)
+**Languages**
 
-</td>
-<td width="25%">
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 
-![gameplay](https://github.com/itsvinm/gameboy_emu_poke/blob/main/images/initgameplay.png)
+**Frameworks & Technologies**
 
-</td>
-</tr>
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![Ebitengine](https://img.shields.io/badge/Ebitengine-00C853?style=for-the-badge&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<tr>
-<td width="50%">
+---
 
-**👾 CHIP-8 Runtime — Go Edition**
+## Philosophy
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Ebitengine](https://img.shields.io/badge/Ebitengine-8BD0BA?style=for-the-badge&logo=ebitengine&logoColor=white) ![WASM](https://img.shields.io/badge/WebAssembly-624DE8?style=for-the-badge&logo=webassembly&logoColor=white)
+- **Cycle-accurate execution** — Every instruction validated, every edge case tested
+- **Memory-safe code** — Rust-first approach for reliability and performance
+- **Deterministic systems** — Consistent behavior across platforms and runtimes
+- **Full system visibility** — Integrated inspection and debugging frameworks
 
-A hardened virtual machine built from first principles. Deterministic execution across every platform. Integrated debugger for full system visibility. Fault injection framework baked in.
+---
 
-**[🎮 Play](https://itsVinM.github.io/chip8-go-runtime/) · [💻 Source](https://github.com/itsVinM/chip8-go-runtime)**
+## Connect
 
-</td>
-<td width="25%">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vincentiu-mocanu-b06274182)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsVinM)
 
-![tank](https://github.com/itsVinM/chip8-go-runtime/blob/main/statics/tank.png)
-
-</td>
-<td width="25%">
-
-![chip8-wasm](https://github.com/itsVinM/chip8-go-runtime/blob/main/statics/chip8_wasm.png)
-
-</td>
-</tr>
-</table>
+**Location:** Barcelona 🌍
